@@ -1,8 +1,22 @@
-## Hi there 👋
+# Hey👋 I'm Aaron!
+- 😄 Pronouns: he/him
+
+
+
+
+
+
+
+
+
+
+
+
+## **My GitHub stats**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-cat750)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Data-cat750/data-cat750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,6 +25,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
